@@ -1,14 +1,13 @@
 # Fusion Table Searchable Map Template
 You want to put your data on a searchable, filterable map. This is a free, open source template to help you do it.
-
+http://ankitvatsyayan.github.io/FusionTable-Map-Template
 **Note** [Google now requires you to enable billing with a credit card and have a valid API key](https://cloud.google.com/maps-platform/user-guide/) for all Google API projects, including this one. [Read the guide on how these changes impact this template and instructions on getting your own API key](https://groups.google.com/forum/#!topic/fusion-table-map-template/JJMsd7wVQuM).
 
 [![Searchable Map Template screenshot](https://raw.github.com/derekeder/FusionTable-Map-Template/master/images/searchable-map-template-v1.2.jpg)](http://derekeder.github.io/FusionTable-Map-Template/)
 
 [See the working demo &raquo;](http://derekeder.github.io/FusionTable-Map-Template/)
 
-## Features
-
+Featuresgithub
 * full screen, iframe and content templates
 * display up to 100,000 map points
 * address search (with variable radius and geocomplete)
